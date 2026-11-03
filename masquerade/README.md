@@ -22,7 +22,7 @@
 
 Made by *pr0lificz*
 
-Masquerade is a JWT, Token Multi-Tool capable of decoding, cracking and forging JWT Tokens.
+Masquerade is a JWT Token Multi-Tool capable of decoding, cracking and forging JWT Tokens.
 Usage: python3 masquerade.py <action> [options]
   Actions: 
   decode:  Decode JWT header and payload 
