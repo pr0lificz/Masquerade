@@ -1,3 +1,4 @@
+'''text
 ggg, ,ggg,_,ggg,                                                                                                     
 dP""Y8dP""Y88P""Y8b                                                                                        8I          
 Yb, `88'  `88'  `88                                                                                        8I          
@@ -12,8 +13,7 @@ Yb, `88'  `88'  `88                                                             
                                                    I8'                                                                 
                                                    I8                                                                  
                                                    I8                                                                  
-                                                   I8                                                                  
-                                                   I8
+                                                   I8                                                                   '''                                                          I8
 
 
 Made by *pr0lificz*
