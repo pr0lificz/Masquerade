@@ -51,7 +51,7 @@ Usage: python3 masquerade.py <action> [options]
 Clone the repository and ensure you are using Python 3:
 Bash
 
-git clone [https://github.com/yourusername/masquerade.git](https://github.com/yourusername/masquerade.git)
+git clone [https://github.com/yourusername/masquerade.git](https://github.com/pr0lificz/masquerade.git)
 cd masquerade
 python3 masquerade.py help
 
